@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Developement**
 
-- 💬 Ask me about **Mearn**
+- 💬 Ask me about **Mern**
 
 - 📫 How to reach me **eishajha0807@gmail.com**
 
