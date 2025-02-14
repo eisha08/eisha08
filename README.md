@@ -68,8 +68,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=eisha08&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eisha08&theme=radical" alt="GitHub Streak">
 </p>
+
 
 
 
